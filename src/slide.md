@@ -1,7 +1,6 @@
-# reveal-pon
+# テストですぜ
 
-reveal.js build system
-using GitHub eco systems.
+どんな風に書かれるのかせっかくだからしらべてみるぜ
 
 ---
 
@@ -17,3 +16,9 @@ using GitHub eco systems.
 
 
 # Let's try!
+
+huuuuuuuuu
+
+# 今日のワンコ
+
+huuuuuuuuuuuuu!!!!
